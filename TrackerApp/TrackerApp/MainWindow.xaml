@@ -1,0 +1,22 @@
+﻿<Window x:Class="TrackerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrackerApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu Height="20" VerticalAlignment="Top">
+            <MenuItem Header="Добавить">
+                <MenuItem Header="Группу" Click="Add_Group_Click"></MenuItem>
+                <MenuItem Header="Студента" Click="Add_Student_Click"></MenuItem>
+                <MenuItem Header="Преподавателя" Click="Add_Teacher_Click"></MenuItem>
+                <MenuItem Header="Книгу" Click="Add_Book_Click"></MenuItem>
+                <MenuItem Header="Занятие" Click="Add_Lesson_Click"></MenuItem>
+                <MenuItem Header="Задание" Click="Add_Task_Click"></MenuItem>
+                <MenuItem Header="Тему" Click="Add_Theme_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

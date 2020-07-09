@@ -1,0 +1,7 @@
+app/TrackerApp/TrackerApp/bin/
+app/TrackerApp/TrackerApp/obj/
+app/TrackerApp/.vs/TrackerApp/v16/Server/sqlite3/db.lock
+app/TrackerApp/db/
+app/TrackerApp/TrackerApp/TrackerDB.db
+
+
