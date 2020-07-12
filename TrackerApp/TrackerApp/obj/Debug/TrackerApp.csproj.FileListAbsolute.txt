@@ -76,3 +76,4 @@ C:\Users\ulad\source\repos\TrackerApp\TrackerApp\TrackerApp\obj\Debug\TrackerApp
 C:\Users\ulad\source\repos\TrackerApp\TrackerApp\TrackerApp\obj\Debug\TrackerApp.Properties.Resources.resources
 C:\Users\ulad\source\repos\TrackerApp\TrackerApp\TrackerApp\obj\Debug\TrackerApp.csproj.GenerateResource.cache
 C:\Users\ulad\source\repos\TrackerApp\TrackerApp\TrackerApp\obj\Debug\TrackerApp.csproj.CopyComplete
+C:\Users\ulad\source\repos\TrackerApp\TrackerApp\TrackerApp\obj\Debug\TrackerApp.csproj.CoreCompileInputs.cache

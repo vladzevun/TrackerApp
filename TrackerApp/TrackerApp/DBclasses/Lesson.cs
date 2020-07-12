@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TrackerApp.DBclasses
 {
-    class Lesson
+    public class Lesson
     {
         public Lesson()
         {

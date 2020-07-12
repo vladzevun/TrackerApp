@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TrackerApp.DBclasses
 {
-    class Theme
+    public class Theme
     {
         public Theme()
         {

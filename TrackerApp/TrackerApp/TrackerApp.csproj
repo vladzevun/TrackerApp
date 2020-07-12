@@ -76,6 +76,7 @@
     </ApplicationDefinition>
     <Compile Include="DBclasses\ApplicationContext.cs" />
     <Compile Include="DBclasses\Book.cs" />
+    <Compile Include="DBclasses\DBOperator.cs" />
     <Compile Include="DBclasses\Group.cs" />
     <Compile Include="DBclasses\Lesson.cs" />
     <Compile Include="DBclasses\Student.cs" />

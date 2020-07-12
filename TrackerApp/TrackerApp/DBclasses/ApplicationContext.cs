@@ -5,7 +5,7 @@ using System.Data.Entity;
 
 namespace TrackerApp.DBclasses
 {
-    class ApplicationContext : DbContext
+    public class ApplicationContext : DbContext
     {
         public ApplicationContext() : base("DefaultConnection")
         {
